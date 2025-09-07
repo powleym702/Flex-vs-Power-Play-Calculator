@@ -14,13 +14,11 @@ Breakeven percentage for the user can be calculated a few different ways, althou
 
 Here are a few examples, with the user input in **bold**
 
-1. 
 How many props will be in your lineup? **4**
 Will it be a flex play or a power play? **power**
 What is the payout? (i.e., for 6x, enter 6): **9**
 Individual Prop Breakeven percentage: 57.74%
 
-2.
 How many props will be in your lineup? **6**
 Will it be a flex play or a power play? **flex**
 What is the payout for winning all 6 props? (i.e., for 6x, enter 6) **25** 
